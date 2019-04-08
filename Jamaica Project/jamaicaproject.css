@@ -1,0 +1,35 @@
+/*
+* Erin Kelleher
+* 4/9/19
+* Project 3 Jamaica
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    /* color of the background of the web page */
+    background-color: darkcyan
+}
+/* border color and size */
+table, td, th { border: 1px solid blue; }
+
+table { border-collapse: collapse; }
+
+/* colors of the boxes that I made */
+thead { background-color: lightpink; }
+tbody { background-color: lightskyblue}
+
+/* picture formatting */
+img { width: 200px; height: 100px; }
+#beach { float: left; width: 300px; height: 200px; }
+#beachfig { float: left; }
+#hotel { float: left; width: 500px; height: 250px; }
+#hotelfig { float: left; }
+#activities { float: left; width: 500px; height: 400px; }
+#activitiesfig { float: left; }
